@@ -7,7 +7,7 @@ by the RPG DVS ROS driver5, and set exposure to either auto or fixed to maximize
 
 ![Eg1](./figures/1.png)
 
-## Link of raw dataset in the bag format 
+## Link of raw dataset in the BAG format 
 ### Reducing the Sim-to-Real Gap for Event Cameras
 [[project page](https://timostoff.github.io/20ecnn)] [[paper](https://arxiv.org/pdf/2003.09078.pdf)] [[raw dataset](https://drive.google.com/drive/folders/18Xdr6pxJX0ZXTrXW9tK0hC3ZpmKDIt6_)]
 
